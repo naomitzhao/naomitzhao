@@ -1,3 +1,5 @@
 ## hi, i'm naomi! 💗
 
-currently studying computer science and engineering + economics at uc davis. passionate about building beautiful software and full-stack development <3
+currently studying computer science and engineering + economics at uc davis.
+
+a frontend web specialist passionate about building beautiful and accessible software <3
